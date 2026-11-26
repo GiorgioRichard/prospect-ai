@@ -1,0 +1,2 @@
+# Roadmap
+Estimativa condicional, não compromisso: semanas 1–2 fundação; 3–4 fontes e busca; 5–6 evidências/score/radar; 7–8 CRM e PDF; 9–10 piloto e segurança; 11–13 IA e white label; 14–16 billing e lançamento. Gates: G1 isolamento validado; G2 fontes licenciadas e cobertura medida; G3 precisão de evidências; G4 jornada completa e supressão; G5 piloto aprovado; G6 custos e qualidade IA; G7 checkout, cancelamento, recuperação e revisão jurídica. Se gate falhar, não avançar por calendário.

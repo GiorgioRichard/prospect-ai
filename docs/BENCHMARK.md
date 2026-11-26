@@ -1,0 +1,4 @@
+# Referências e decisões
+LOBAE: https://github.com/Sabrina-vlobo/prospector-lobae — análise anterior do commit 0009bf911a8a4a49a8586f4b171701def90645e9 identificou Next.js/Express/Prisma/PostgreSQL, Google Places e Claude; licença não identificada. Implementação original, sem reutilizar código sem autorização.
+Avram: https://avramsistemas.com.br/prospeccao/ — arquivo textual fornecido pelo usuário e capturas demonstrativas: OSM/CSV, radar semanal, score explicável, conferência humana, templates sem IA, envio manual, PDF versionado e link de 30 dias, contratos e assinatura. Declara isolamento no banco; não auditado. Dados das capturas fictícios. Nosso projeto adota conceitos funcionais, não identidade ou código.
+Decisões pendentes: nome/marca, provedor de mapas, licença e políticas de dados, orçamento, equipe, pagamento, pesos calibrados, revisão jurídica. Nenhuma estimativa é garantia.
