@@ -1,5 +1,5 @@
 # Modelagem de dados
-O schema inicial em `../prisma/schema.prisma` cobre o núcleo P0. Toda entidade de negócio tem organizationId; relações entre entidades devem usar chaves compostas tenant/id. Membership vincula usuário autenticado a organização. Dados externos têm proveniência e política de retenção. Não persistir campos proibidos por provedor.
+O schema inicial em `../packages/db/prisma/schema.prisma` cobre o núcleo P0. Toda entidade de negócio tem organizationId; relações entre entidades devem usar chaves compostas tenant/id. Membership vincula usuário autenticado a organização. Dados externos têm proveniência e política de retenção. Não persistir campos proibidos por provedor.
 ## Entidades futuras
 Contratos, eventos financeiros, assinaturas, planos, quotas, aceites de termos, versões de templates, feedback de radar, conflitos de evidência, auditorias e consumo de IA. Introduzir por migração quando o épico correspondente iniciar.
 ## RLS
